@@ -1,11 +1,11 @@
 INSERT INTO users (id, name, age) VALUES
-(1, 'Anna', 34), (2, 'Jose', 28), (3, 'Jiyong', 57),
-(4, 'Leon', 38), (5, 'Paul', 27), (6, 'Ta-shawn', 43),
-(7, 'Betty', 64), (8, 'Jay', 31), (9, 'Park', 19),
-(10, 'JP', 94), (11, 'Jaebum', 24), (12, 'Mr.Worldwide', 29),
-(13, 'GD', 52), (14, 'Dpr Live', 24), (15, 'Chowder', 9),
-(16, 'Flap Jack', 100), (17, 'CL', 46), (18, 'Christy', 84),
-(19, 'Eric', 26), (20, 'Sooyoung', 99);
+(1, 'Finnebar', 17), (2, 'Bear', 6), (3, 'Iguana', 4),
+(4, 'Alex', 33), (5, 'Amanda', 24), (6, 'Sophie', 24), 
+(7, 'Rosey', 9), (8, 'Victoria', 23), (9, 'Franz', 100), 
+(10, 'Hermione', 30), (11, 'Voldemort', 90), (12, 'Marisa', 24),
+(13, 'Swizzle', 4), (14, 'Sirius', 36), (15, 'Albus', 113), 
+(16, 'Squid', 5), (17, 'Whale', 6), (18, 'Pacha', 5), 
+(19, 'Ena', 24), (20, 'Katie', 24);
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date) VALUES
 ("Buy me things","charity",200,"2019-06-12","2019-06-30"),
