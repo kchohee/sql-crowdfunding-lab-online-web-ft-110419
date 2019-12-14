@@ -1,11 +1,11 @@
 INSERT INTO users (id,name,age) VALUES(1,"Anna",34),(2,"Jose",28),(3,"Jiyong",57),(4,"Leon",38),(5,"Paul",27),(6,"Ta'shawn",43),(7,"Betty",64),(8,"Jay",31),(9,"Park",19),(10,"JP",94),
 (11,"Jaebum",24),(12,"Mr.Worldwide",29),(13,"GD",52),(14,"Dpr Live",24),(15,"Chowder",9),(16,"Flap Jack",100),(17,"CL",46),(18,"Christy",84),(19,"Eric",26),(20,"Sooyoung",99)
-INSERT INTO projects (id,title,category,funding_goal,start_date,end_date) VALUES 
+INSERT INTO projects (id,title,category,funding_goal,start_date,end_date) VALUES
 (1,"Buy me things","charity",200,"2019-06-12","2019-06-30"),
 (2,"Medical bills are killing me becaue our health care system is flawed","charity",5500,"2019-01-02","2019-03-20"),
 (3,"Help end homelessness","charity",20,000,"2013-07-23","2019-01-04"),
 (4,"Help add compain to decriminalize cannabis","charity",3000,"2010-04-01","2020-04-20"),
-(5,"Help me pay for my study abroad","charity",6000,"2034-06-07","2035-02-09"), 
+(5,"Help me pay for my study abroad","charity",6000,"2034-06-07","2035-02-09"),
 (6,"I just want to make the best sandwhich ever!","charity",10,"2019-01-01","2020-01-01"),
 (7,"Just donate because why not","charity",10,"2020-07-16","2020-07-018"),
 (8,"Help me buy a new computer","charity",1000,"2019-01-28","2019-07-18"),
